@@ -90,9 +90,7 @@ public class CalisanEkrani extends javax.swing.JDialog {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
-    /**
-     * @param args the command line arguments
-     */
+    
     
     public void calisanGoruntule(){
         
